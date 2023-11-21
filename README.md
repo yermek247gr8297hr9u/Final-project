@@ -1,11 +1,12 @@
 # Final-project
 Бот переводит с русского на английский при вводе на русском и с других языков на русский. 
 Есть возможность выбирать язык прервода. 
-# Бот переводчик, переводит с русского на английский и со всех на русский.
-# Для начала необходимо установить библиотеки 
-#             sudo apt install pip
-#             pip install googletrans==3.1.0a0  -важно утановить именно эту версию библиотеки
-#             pip install pyTelegramBotAPI
-#             pip install asyncio
-#             pip install aiohttp
+ Бот переводчик, переводит с русского на английский и со всех на русский.
+ Для начала необходимо установить библиотеки 
+             sudo apt install pip
+             pip install googletrans==3.1.0a0  -важно утановить именно эту версию библиотеки
+             pip install pyTelegramBotAPI
+             pip install asyncio
+             pip install aiohttp
+
 Бот работает только при запущенном коде. 
